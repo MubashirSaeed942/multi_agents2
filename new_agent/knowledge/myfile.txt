@@ -1,0 +1,17 @@
+Mubashir Saeed is a full-stack web developer working with Next.js, TypeScript, and Python.
+
+He started his web development journey seven months ago, but now his focus has shifted toward Agentic AI and Generative AI development. His goal is not just to learn programming but to become a successful businessman.
+
+Mubashir is a problem solver and critical thinker who likes to analyze things from every angle. In the initial phases of web development, he faced challenges in building coding logic, but now he wants to work on Python backend development and AI-driven projects.
+
+Currently, he is developing a fashion website where he plans to integrate playful notifications and AI-driven features. Additionally, he has a business idea aimed at automating the fashion industry and stitching services through AI and digital platforms.
+
+Mubashir has also gained experience with Sanity CMS, Vercel deployment, and Git handling, though he occasionally faces difficulties in resolving Git errors.
+
+He has a keen interest in deeply understanding NumPy, Pandas, and Python backend frameworks. He is also exploring LangChain and AI embeddings to develop AI-powered agents and autonomous systems.
+
+His study approach is based on step-by-step and deeply defined explanations, as he always prefers to understand backend logic and behind-the-scenes processes.
+
+The fast pace of programming can sometimes be challenging for him, but he is continuously improving his skills through self-learning and experimentation.
+
+His long-term goal is to launch a unique AI-driven business that solves real-world problems and becomes a game-changer in the market. 🚀

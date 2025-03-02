@@ -1,0 +1,17 @@
+guide_task:
+  description: >
+    tell the user about thier relevant {question}
+  expected_output: >
+    a simple answer about user's {question}. 
+  agent: user_guider
+
+suggest_task:
+  description: >
+    Review the context you got and expand each topic into a full section for a report.
+    Make sure the report is detailed and contains any and all relevant information.
+  expected_output: >
+    A fully fledged report with the main topics, each with a full section of information.
+    Formatted as markdown without '```'
+  agent: user_suggestor
+   
+   
